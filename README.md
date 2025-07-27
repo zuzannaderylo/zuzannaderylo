@@ -10,16 +10,17 @@ I'm a Software Design MSc student at IT University of Copenhagen, specializing i
 
 ## 📌 Projects
 ### [Machine Learning for Income Prediction using Census Data](https://github.com/zuzannaderylo/Income_Prediction)
-- Analyzed the UCI Adult Income dataset to predict whether individuals earn more or less than $50K annually.
-- Performed Exploratory Data Analysis (EDA). Compared strategies for handling missing values.
-- Performed Data Cleaning and Preprocessing
-- Tools & Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+- Analyzed the UCI Adult Income dataset to predict annual income.
+- Performed Exploratory Data Analysis (EDA).
+- Compared strategies for handling missing values.
+- Performed Data Cleaning and Preprocessing.
+- Tools & Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 ### [Big Data Processing for Yelp Reviews Analysis](https://github.com/zuzannaderylo/Yelp_Reviews)
 - Analyzed 6.6M Yelp reviews to study authenticity-related language across global cuisines. 
 - Developed Spark pipelines for large-scale text processing. 
 - Trained a regression model using Spark MLlib to predict restaurant review ratings.
-- Tools: PySpark, Spark MLlib, Feature Engineering, Distributed Text Processing, UCloud
+- Tools & Technologies: PySpark, Spark MLlib, Feature Engineering, Distributed Text Processing, UCloud
 
 ---
 
